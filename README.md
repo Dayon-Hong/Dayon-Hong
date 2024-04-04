@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/Dayon-Hong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${깃닉네임}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
+  </a>
+  
 -->
 
 <div align="center">
@@ -28,19 +35,21 @@ Here are some ideas to get you started:
 
   
 
-  🏫 한국공학대학교 소프트웨어학과 
-  <br>
+  🎓 한국공학대학교 소프트웨어학과 <br>
+  🩷 WCRC 데이터분석(대학일반) 국가기술표준원상 (2023.11.24) <br>
+  🎀 UMC 4기 TUK 활동 (2023.3 ~ 2023.9 )  <br>
+  👥 GDSC 2기 (2023.10 ~ 2024.05)  
 
-
-
-  <br>
  
 </div>
 
 
 <div align="center">
-  
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayon-Hong&layout=compact&theme=dracula&langs_count=5"/>
+  <!---
+   <img align ="right" src ="https://github-readme-stats.vercel.app/api?username=Dayon-Hong&count_private=true&show_icons=true&theme=dracula"/>
+  --->
 
   
   ### 🛠 SKILL 🛠
