@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 
   
 
-  🎓 한국공학대학교 소프트웨어학과 
+  🏫 한국공학대학교 소프트웨어학과 
   <br>
-  🔎 삼성 청년 SW 아카데미 (SSAFY) 6기   <br>
-  🗣 Kakao Corp
+
 
 
   <br>
