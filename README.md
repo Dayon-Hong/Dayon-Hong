@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayon-Hong&layout=compact&theme=dracula&langs_count=5"/>
+    
 <!---
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayon-Hong&layout=compact&theme=dracula&langs_count=6&exclude_repo=ISP"/>
    <img align ="right" src ="https://github-readme-stats.vercel.app/api?username=Dayon-Hong&count_private=true&show_icons=true&theme=dracula"/>
 --->
 
