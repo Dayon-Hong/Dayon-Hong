@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 
 ### 👋 Hong Dayon 👋 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Dayon-Hong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Dayon-Hong) <a href="https://velog.io/@dayon_log/posts"><img src="https://img.shields.io/badge/-Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
+  
+<!---
   <a href="https://drive.google.com/file/d/1H3Gj0DQV6zyK2sNhyCJS1ipeeJEKr7Fb/view?usp=sharing"><img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=GoogleDrive&logoColor=white"/></a>  
+  -->
 
   
 
-  🎓 한국공학대학교 소프트웨어학과 <br>
+  🎓 한국공학대학교 소프트웨어학과  <br>
   🩷 WCRC 데이터분석(대학일반) 국가기술표준원상 (2023.11.24) <br>
   🎀 UMC 4기 TUK 활동 (2023.3 ~ 2023.9 )  <br>
   👥 GDSC 2기 (2023.10 ~ 2024.05)  
